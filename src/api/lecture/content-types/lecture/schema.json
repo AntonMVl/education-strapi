@@ -16,18 +16,8 @@
       "required": true
     },
     "lectureContent": {
-      "type": "text",
+      "type": "blocks",
       "required": true
-    },
-    "lectureMedia": {
-      "type": "media",
-      "multiple": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
     }
   }
 }

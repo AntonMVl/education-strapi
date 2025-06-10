@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_test_questions",
+  "info": {
+    "displayName": "question"
+  },
+  "options": {},
+  "attributes": {
+    "questionText": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "config": {}
+}
